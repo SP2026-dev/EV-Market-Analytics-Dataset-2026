@@ -1,0 +1,30 @@
+1. Display "Expensive" if Price_USD is greater than 100000, otherwise "Affordable". (Using - IF Function) (Created column name at AB column)
+
+2. Classify vehicles based on customer ratings.  (Using - IFS Function) (Created column name at AB column)
+4.5+ = Excellent
+4.0–4.49 = Good
+Below 4 = Average
+
+3. Check whether a vehicle is both: (Using - AND Function) (Created column name at AB column)
+Luxury priced (>100000)
+Customer rating above 4
+
+4. Check whether a vehicle has either: (Using - OR Function) (Created column name at AB column)
+Range above 400 miles
+Horsepower above 500
+
+5. Calculate Price per Mile. (Using - IFERROR Function) (Created column name at AB column)
+
+6. If Brand lookup is not found, show "Brand Not Found". (Using - IFNA Function) (Created column name at AB column)
+
+7. Convert Autopilot Levels into descriptions. (Using - SWITCH Function) (Created column name at AB column)
+
+8. Check whether only one condition is true: (Using - XOR Function) (Created column name at AB column)
+Price above 100000
+Customer Rating above 4.5
+
+9. Compare whether Range exceeds 350. (Using - TRUE Function) (Created column name at AB column)
+
+10. Check whether Price is below 10000. (Using - FALSE Function) (Created column name at AB column)
+
+11. Calculate Price per Mile using variables. (Using - LET Function) (Created column name at AB column)
