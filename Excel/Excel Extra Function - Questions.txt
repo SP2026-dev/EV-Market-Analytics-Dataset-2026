@@ -1,5 +1,0 @@
-1. Extract a list of all unique EV brands. (Using - UNIQUE Function) (Created column name at AB column)
-
-2. Generate serial numbers from 1 to 20. (Using - SEQUENCE Function) (Created column name at AB column)
-
-3. Return the value from cell A2 dynamically. (Using - INDIRECT Function) (Created column name at AB column)
