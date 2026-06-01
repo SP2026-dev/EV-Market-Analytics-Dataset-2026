@@ -90,9 +90,13 @@ The average rating of 3.6 indicates scope for improvement in product quality, ch
 
 ## Author:
 Sangeet Pandit
+
 B.Tech (Information Technology)
+
 Aspiring Data Analyst | MIS Executive
+
 Skills: Excel, SQL, Power BI, Data Analysis, Dashboard Development
-Average Battery Capacity: 74.66 kWh
-Total Sales: 259.3M
-Average Rating: 3.6 ⭐
+
+
+
+
